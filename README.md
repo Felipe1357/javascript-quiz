@@ -12,5 +12,5 @@ Interactive terminal quiz built with JavaScript and Node.js.
 3. Execute o comando:
 
 ```bash
-node quiz2.js
+node quiz.js
 ```
